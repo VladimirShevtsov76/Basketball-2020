@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Basketball 2020
 //
-//  Created by Vladimir Shevtsov on 02.12.2021.
+//  Created by Vladimir Shevtsov on 25.10.2021.
 //
 
 import UIKit
